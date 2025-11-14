@@ -8,7 +8,7 @@ class Solution {
       dict.emplace(vowelKey(w), w);
     }
 
-    vector<string> ans;
+    vector<string> ans; 
     for (auto& q : queries) {
       string l = "$" + lower(q), v = vowelKey(q);
       if (dict.count(q)) ans.push_back(dict[q]);
