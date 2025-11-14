@@ -4,7 +4,7 @@ class Solution {
     unordered_map<string, string> dict;
     for (auto& w : wordlist) {
       dict.emplace(w, w);
-      dict.emplace("$" + lower(w), w);
+      dict.emplace("$" + lower(w), w); 
       dict.emplace(vowelKey(w), w);
     }
 
