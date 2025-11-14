@@ -16,7 +16,7 @@ class Solution {
       else if (dict.count(v)) ans.push_back(dict[v]);
       else ans.push_back("");
     }
-    return ans;
+    return ans; 
   }
 
  private:
