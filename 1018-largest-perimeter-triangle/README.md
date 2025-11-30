@@ -6,7 +6,7 @@
 <pre>
 <strong>Input:</strong> nums = [2,1,2]
 <strong>Output:</strong> 5
-<strong>Explanation:</strong> You can form a triangle with three side lengths: 1, 2, and 2.
+<strong>Explanation:</strong> You can form a triangle with three side lengths: 1, 2, and 2. 
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
