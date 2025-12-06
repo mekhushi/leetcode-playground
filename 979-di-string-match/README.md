@@ -18,7 +18,7 @@
 <pre><strong>Input:</strong> s = "DDI"
 <strong>Output:</strong> [3,2,0,1]
 </pre>
-<p>&nbsp;</p>
+<p>&nbsp;</p> 
 <p><strong>Constraints:</strong></p>
 
 <ul>
