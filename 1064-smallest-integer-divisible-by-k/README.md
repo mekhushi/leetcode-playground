@@ -7,7 +7,7 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre>
+<pre> 
 <strong>Input:</strong> k = 1
 <strong>Output:</strong> 1
 <strong>Explanation:</strong> The smallest answer is n = 1, which has length 1.
