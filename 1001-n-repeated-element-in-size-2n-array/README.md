@@ -11,7 +11,7 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 <pre><strong>Input:</strong> nums = [1,2,3,3]
-<strong>Output:</strong> 3
+<strong>Output:</strong> 3   
 </pre><p><strong class="example">Example 2:</strong></p>
 <pre><strong>Input:</strong> nums = [2,1,2,5,3,2]
 <strong>Output:</strong> 2
