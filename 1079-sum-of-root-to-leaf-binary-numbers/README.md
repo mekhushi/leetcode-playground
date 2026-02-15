@@ -3,7 +3,7 @@
 <ul>
 	<li>For example, if the path is <code>0 -&gt; 1 -&gt; 1 -&gt; 0 -&gt; 1</code>, then this could represent <code>01101</code> in binary, which is <code>13</code>.</li>
 </ul>
-
+ 
 <p>For all leaves in the tree, consider the numbers represented by the path from the root to that leaf. Return <em>the sum of these numbers</em>.</p>
 
 <p>The test cases are generated so that the answer fits in a <strong>32-bits</strong> integer.</p>
