@@ -1,17 +1,17 @@
 class Solution {
 public:
     bool hasAlternatingBits(int n) {
-        int prev = n % 2;   // store last bit
+        int prev = n % 2;   
         n = n / 2;
 
         while (n > 0) {
-            int curr = n % 2;   // current bit
+            int curr = n % 2;   
             
             if (curr == prev) {
-                return false;   // two same bits found
+                return false;   
             }
 
-            prev = curr;       // update previous bit
+            prev = curr;       
             n = n / 2;
         }
 
